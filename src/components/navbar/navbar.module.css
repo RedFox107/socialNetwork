@@ -1,0 +1,22 @@
+.nav {
+	background-color: bisque;
+	grid-area: n;
+	padding: 20px;
+}
+.item a{
+	color: #0088ff;
+	text-decoration: none;
+}
+.item .activeLink{
+	color:gold;
+}
+.friend img{
+	text-align: center;
+	border-radius: 50%;
+	width: 100%;
+}
+.friends{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-column-gap: 5%;
+}

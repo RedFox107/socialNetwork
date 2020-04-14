@@ -1,0 +1,10 @@
+.header{
+	background-color: burlywood;
+	grid-area: h;
+}
+.header img{
+	width: 40px;
+}
+.loginBlock{
+	float: right;
+}

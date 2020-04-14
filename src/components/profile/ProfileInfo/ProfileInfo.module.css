@@ -1,0 +1,15 @@
+.content img{
+	width: 100%;
+	height: 200px;
+}
+.descriptionBlock{
+	padding: 10px;
+}
+
+.profileImg img{
+	width: 100%;
+	height: 15vh;
+}
+.mainPhoto{
+	max-width: 27%;
+}
